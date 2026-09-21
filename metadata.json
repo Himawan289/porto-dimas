@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Profesional Respati Himawan",
+  "description": "Portofolio digital profesional menampilkan riwayat proyek kuliah, pengalaman magang, sertifikasi pencapaian yang dapat diunduh langsung, dan biografi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
